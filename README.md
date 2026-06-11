@@ -1,0 +1,2 @@
+# StrideIQ
+Running tracker app
